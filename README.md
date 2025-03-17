@@ -5,7 +5,6 @@
 - 👨‍💻 Passionate about **coding, content creation & startups** – building the future, one step at a time!
 - 💡 Learning **React, JavaScript & Python** to create impactful projects.
 - 🎯 On a mission to hit the **top 0.00001%** in success.
-- 🌿 Spiritually inclined – exploring the **Bhagavad Gita & Lord Dattatreya's wisdom**.
 
 ## 💻 Tech Stack
 
@@ -32,3 +31,4 @@
 ---
 
 🔥 "Sapne bade hain, toh mehnat bhi badi hogi!" Let's hustle and make it happen! 🇮🇳🚀
+Jai Shree Ram
