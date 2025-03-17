@@ -18,6 +18,9 @@
 - 🏗 Build innovative projects that solve real-world problems.
 - 🚀 Master full-stack development.
 - 📈 Expand my digital presence and impact.
+
+## 🎯 2030 Goals
+
 - 💡 Launch my **own startup** and contribute to India's growth!
 
 ## 🔗 Connect With Me
