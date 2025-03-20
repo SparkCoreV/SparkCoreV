@@ -12,7 +12,7 @@
 
 - **Languages**: JavaScript, Python, HTML, CSS
 - **Frameworks & Libraries**: React, Tailwind CSS
-- **Tools**: GitHub, Brave Browser Extensions, AI Voiceovers
+- **Tools**: GitHub,VS Code,Postman CapCut ,Canva ,ChatGPT,Notion ,Google Trends
 
 ## 🎯 2025 Goals
 
