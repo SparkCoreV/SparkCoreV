@@ -24,7 +24,7 @@
 ## 🔗 Connect With Me
 
 - 📷 Instagram: [@_mr.nohara]
-- 🔗 LinkedIn: [@vishal-jadhav-25620b323/]
+- 🔗 LinkedIn: [@sparkcorev]
 - 📝 GitHub: [@SparkCoreV]
 
 ---
